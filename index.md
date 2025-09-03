@@ -1,6 +1,8 @@
 ## Welcome to GitHub Pages
-Hello my Name is Josiah Nyce
-I am taking CS 193
+# Josiah Nyce's First CS 193 Homework
+- Student Taught
+- 90% and above is an A
+- Only meets once a week
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
